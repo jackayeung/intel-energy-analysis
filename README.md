@@ -132,6 +132,4 @@ Result: The Midwest region, despite having a large number of Solar Photovoltaic 
 #### Recommendation
 Based on the analysis, the Northwest region, particularly Washington State, is recommended for Intel's new data center. This region not only produces a substantial amount of renewable energy but also has a higher percentage of its total energy coming from renewable sources. The Northwest's balance of energy availability, sustainability, and infrastructure makes it the most suitable location for Intel's data center.
 
-<p align="center">
-  <img src="images/graph4.png" alt="Example Image">
-</p>
+
